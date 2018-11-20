@@ -1,0 +1,9 @@
+$ git config --global user.name "mayuresh barbind"
+
+$git config --global user.email "mayuresh_barbind@persistent.com"
+
+$ git status
+
+$ git init
+
+$ git commit -m "File1.txt is created.. Hello world"
