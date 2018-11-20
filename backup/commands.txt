@@ -24,3 +24,4 @@ $ git log --grep="class"
 
 $ git diff
 
+$ git diff --staged
