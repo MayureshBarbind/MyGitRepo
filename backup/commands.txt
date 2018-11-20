@@ -25,3 +25,6 @@ $ git log --grep="class"
 $ git diff
 
 $ git diff --staged
+
+$ git checkout 9319855
+
