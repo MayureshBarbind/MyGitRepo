@@ -1,9 +1,26 @@
 $ git config --global user.name "mayuresh barbind"
 
-$git config --global user.email "mayuresh_barbind@persistent.com"
+$ git config --global user.email "mayuresh_barbind@persistent.com"
 
 $ git status
 
 $ git init
 
+$ git add *.txt
+
 $ git commit -m "File1.txt is created.. Hello world"
+
+$ git log
+
+$ git log --oneline
+
+$ git log --since="11-19-2018"
+
+$ git log --since="11-19-2018" --oneline -2
+
+$ git log --until="11-19-2018" 
+
+$ git log --grep="class"
+
+$ git diff
+
