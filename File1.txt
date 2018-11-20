@@ -1,3 +1,5 @@
+//comments should be added like this.
+//all comments
 import java.io.*;
 import java.util.*;
 public class HelloWorld{
