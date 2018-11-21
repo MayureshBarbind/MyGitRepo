@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 //comments should be added like this.
 //all comments
 import java.io.*;
 import java.util.*;
 public class HelloWorld{
+=======
+class Hello{
+>>>>>>> parent of 76ff5c8... Class name changed
 	public static void main(String[] args){
 		System.out.println("Hello world");
 	}

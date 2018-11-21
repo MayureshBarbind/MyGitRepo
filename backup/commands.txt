@@ -28,3 +28,4 @@ $ git diff --staged
 
 $ git checkout 9319855
 
+$ git reset head --hard
